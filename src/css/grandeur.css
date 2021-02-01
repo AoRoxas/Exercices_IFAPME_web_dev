@@ -1,0 +1,13 @@
+.boite{
+    border: 1px black solid;
+}
+
+.fixe{
+    width: 300px;
+    height: 80px;
+}
+
+.pourcentage{
+    width: 80%;
+    height: 30%;
+}

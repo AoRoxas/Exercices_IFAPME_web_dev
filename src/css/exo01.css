@@ -1,0 +1,46 @@
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+p{
+    color:black;
+}
+
+div, span{​​
+    font-weight: bold;
+    color: coral;
+}​​
+
+.classe {
+    color: seagreen;
+}
+
+.rouge{
+    color: red;
+}
+
+.gras{
+    font-weight: bold;
+}
+
+a [href="http://google.be"]{
+    color: teal;
+    text-decoration-color: none;
+}
+
+div > span{
+    color: black;
+    font-weight: bold;
+}
+
+div span{
+    color: darkblue;
+}
+
+h3{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
